@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-05-21",
+  "model_family": "GPT-5.5 Codex worker agents in this session",
+  "reasoning_context": "Single Codex worker reasoning setup for this run; no cross-model or cross-reasoning sweep.",
+  "profiles_file": "bench/profiles.json",
+  "profile_matrix": {
+    "total_profiles": 15,
+    "singles": 4,
+    "pairs": 6,
+    "triples": 4,
+    "all_four": 1
+  },
+  "prompts_file": "bench/prompts/prompts.json",
+  "rubric_file": "bench/rubric.md",
+  "routes": [
+    "/landing",
+    "/dashboard",
+    "/product",
+    "/suite",
+    "/suite/itineraries",
+    "/suite/notes",
+    "/suite/account"
+  ],
+  "viewport_checks": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1100
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "notes": [
+    "All profiles receive the same prompts.",
+    "Scores are based on the rubric plus rendered screenshots and build behavior.",
+    "Treat the results as GPT-5.5 Codex-worker evidence for this session only, not a universal model comparison.",
+    "The Anthropic frontend-design skill is captured as a local benchmark snapshot, not installed globally.",
+    "The expanded benchmark captured 210 screenshots: 15 profiles, 7 routes, and 2 viewports."
+  ]
+}

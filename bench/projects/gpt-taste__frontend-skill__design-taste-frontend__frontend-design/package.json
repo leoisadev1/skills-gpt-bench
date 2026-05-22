@@ -1,0 +1,17 @@
+{
+  "name": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+  "private": true,
+  "scripts": {
+    "build": "next build --webpack",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "latest",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

@@ -1,0 +1,1673 @@
+{
+  "generated_at": "2026-05-22T00:30:00Z",
+  "rubric": "bench/rubric.md",
+  "profile_matrix": {
+    "total_profiles": 15,
+    "singles": 4,
+    "pairs": 6,
+    "triples": 4,
+    "all_four": 1
+  },
+  "summary": [
+    {
+      "rank": 1,
+      "profile": "gpt-taste__frontend-skill__frontend-design",
+      "score": 91,
+      "best_for": "High-impact marketing and product pages that still need restraint",
+      "short_read": "Best overall. GPT-Taste supplied drama, frontend-skill restrained it, and frontend-design pushed the concepts beyond the generic."
+    },
+    {
+      "rank": 2,
+      "profile": "frontend-skill__design-taste-frontend__frontend-design",
+      "score": 90,
+      "best_for": "Balanced product suites and operational UI with strong visual identity",
+      "short_read": "Best no-GPT-Taste combo. Strong dashboard discipline, cohesive suite pages, and memorable enough brand/product work."
+    },
+    {
+      "rank": 3,
+      "profile": "frontend-design",
+      "score": 89,
+      "best_for": "Distinctive page concepts and cohesive visual systems",
+      "short_read": "Still the strongest single skill. It commits to memorable art direction without losing content."
+    },
+    {
+      "rank": 4,
+      "profile": "frontend-skill__frontend-design",
+      "score": 89,
+      "best_for": "Expressive pages that need fewer conflicting implementation constraints",
+      "short_read": "A very good pair: expressive, coherent, and less over-directed than the all-four combination."
+    },
+    {
+      "rank": 5,
+      "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+      "score": 89,
+      "best_for": "Broad all-purpose coverage when consistency matters more than a single sharp direction",
+      "short_read": "The all-four profile is strong, but it did not win. The guidance sometimes competes and creates a slightly blended output."
+    },
+    {
+      "rank": 6,
+      "profile": "gpt-taste__frontend-skill",
+      "score": 88,
+      "best_for": "Balanced marketing pages where expressive composition needs restraint",
+      "short_read": "The original combo remains solid: much better controlled than GPT-Taste alone."
+    },
+    {
+      "rank": 7,
+      "profile": "frontend-skill__design-taste-frontend",
+      "score": 88,
+      "best_for": "Dashboards and practical multi-page product UI",
+      "short_read": "Strongest pair for utility surfaces, though less visually memorable on brand work."
+    },
+    {
+      "rank": 8,
+      "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+      "score": 88,
+      "best_for": "Dense product flows that still need a bolder first impression",
+      "short_read": "Very competent, but the added design-taste constraints make it calmer rather than clearly better than the original pair."
+    },
+    {
+      "rank": 9,
+      "profile": "design-taste-frontend__frontend-design",
+      "score": 87,
+      "best_for": "Operational pages with a more distinctive visual wrapper",
+      "short_read": "Good blend of structure and character, but the dashboard became a little sparse."
+    },
+    {
+      "rank": 10,
+      "profile": "gpt-taste__design-taste-frontend",
+      "score": 87,
+      "best_for": "Bolder operational/marketing hybrids",
+      "short_read": "Improves GPT-Taste's utility discipline, but not enough to beat the pairings that include frontend-design."
+    },
+    {
+      "rank": 11,
+      "profile": "gpt-taste__frontend-design",
+      "score": 86,
+      "best_for": "Dark, expressive, memorable pages",
+      "short_read": "Strong first impressions, but more prone to huge type and weaker dashboard ergonomics."
+    },
+    {
+      "rank": 12,
+      "profile": "design-taste-frontend",
+      "score": 86,
+      "best_for": "Dashboards and operational tools",
+      "short_read": "Still the best single skill for dashboards, but not as strong on marketing/product memorability."
+    },
+    {
+      "rank": 13,
+      "profile": "gpt-taste__design-taste-frontend__frontend-design",
+      "score": 86,
+      "best_for": "Editorial, concept-heavy surfaces",
+      "short_read": "Interesting but uneven. It sometimes becomes more editorial than useful."
+    },
+    {
+      "rank": 14,
+      "profile": "frontend-skill",
+      "score": 85,
+      "best_for": "Tasteful restrained pages",
+      "short_read": "Reliable and polished, but safer than the best combinations."
+    },
+    {
+      "rank": 15,
+      "profile": "gpt-taste",
+      "score": 84,
+      "best_for": "High-impact hero pages",
+      "short_read": "Memorable, but too forceful and less resilient on utility/mobile work."
+    }
+  ],
+  "profiles": {
+    "gpt-taste": {
+      "score": 84,
+      "category_scores": {
+        "product_fit_and_task_completion": 17,
+        "visual_hierarchy_and_composition": 16,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 12,
+        "responsive_resilience_and_text_handling": 7,
+        "interaction_states_and_motion_appropriateness": 9,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 85,
+        "dashboard": 83,
+        "product": 80,
+        "four_page_mini_site": 82
+      },
+      "strengths": [
+        "Strong first-viewport brand signal and memorable type scale.",
+        "Most forceful visual personality among the single skills.",
+        "Uses real motion-oriented implementation patterns."
+      ],
+      "weaknesses": [
+        "Mobile typography frequently feels oversized.",
+        "Utility surfaces inherit too much dramatic marketing posture.",
+        "Several routes share similar dark-green hero language."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste/landing-mobile.png",
+        "bench/results/screenshots/gpt-taste/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste/product-mobile.png"
+      ]
+    },
+    "frontend-skill": {
+      "score": 85,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 12,
+        "information_architecture_and_workflow_clarity": 13,
+        "responsive_resilience_and_text_handling": 8,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 87,
+        "dashboard": 84,
+        "product": 88,
+        "four_page_mini_site": 85
+      },
+      "strengths": [
+        "Tasteful, restrained, image-led hierarchy.",
+        "Strong product detail page with tangible object treatment.",
+        "Good content discipline and low filler."
+      ],
+      "weaknesses": [
+        "Less adventurous than the top combinations.",
+        "Dashboard is usable but visually quiet.",
+        "Motion and interaction states are comparatively light."
+      ],
+      "evidence": [
+        "bench/results/screenshots/frontend-skill/product-mobile.png",
+        "bench/results/screenshots/frontend-skill/landing-desktop.png",
+        "bench/results/screenshots/frontend-skill/suite-notes-desktop.png"
+      ]
+    },
+    "design-taste-frontend": {
+      "score": 86,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 11,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 82,
+        "dashboard": 90,
+        "product": 85,
+        "four_page_mini_site": 87
+      },
+      "strengths": [
+        "Best single-skill dashboard discipline.",
+        "Strong mobile readability and practical route structures.",
+        "Good technical restraint and clean operational IA."
+      ],
+      "weaknesses": [
+        "Least memorable single-skill landing page.",
+        "White/teal system repeats across surfaces.",
+        "Visual personality is precise but not especially brand-forward."
+      ],
+      "evidence": [
+        "bench/results/screenshots/design-taste-frontend/dashboard-desktop.png",
+        "bench/results/screenshots/design-taste-frontend/dashboard-mobile.png",
+        "bench/results/screenshots/design-taste-frontend/suite-account-mobile.png"
+      ]
+    },
+    "frontend-design": {
+      "score": 89,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 14,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 90,
+        "dashboard": 88,
+        "product": 90,
+        "four_page_mini_site": 88
+      },
+      "strengths": [
+        "Strongest single-skill art direction.",
+        "Memorable grid-paper, object, and suite systems.",
+        "Good balance of character and prompt coverage."
+      ],
+      "weaknesses": [
+        "Dashboard leans slightly editorial compared with pure operational tools.",
+        "Interaction depth is moderate rather than exceptional.",
+        "Some routes prioritize concept over maximum density."
+      ],
+      "evidence": [
+        "bench/results/screenshots/frontend-design/landing-desktop.png",
+        "bench/results/screenshots/frontend-design/product-desktop.png",
+        "bench/results/screenshots/frontend-design/suite-itineraries-mobile.png"
+      ]
+    },
+    "gpt-taste__frontend-skill": {
+      "score": 88,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 13,
+        "information_architecture_and_workflow_clarity": 14,
+        "responsive_resilience_and_text_handling": 8,
+        "interaction_states_and_motion_appropriateness": 8,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 88,
+        "dashboard": 88,
+        "product": 88,
+        "four_page_mini_site": 87
+      },
+      "strengths": [
+        "Good original pair balance between drama and restraint.",
+        "Dashboard is clearer than GPT-Taste alone.",
+        "Product and landing pages keep strong visual anchors."
+      ],
+      "weaknesses": [
+        "Suite navigation can feel cramped on mobile.",
+        "Less conceptually surprising than frontend-design pairings.",
+        "Shared beige material system risks sameness."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__frontend-skill/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill/landing-mobile.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill/suite-account-desktop.png"
+      ]
+    },
+    "gpt-taste__design-taste-frontend": {
+      "score": 87,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 13,
+        "information_architecture_and_workflow_clarity": 14,
+        "responsive_resilience_and_text_handling": 8,
+        "interaction_states_and_motion_appropriateness": 8,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 88,
+        "dashboard": 88,
+        "product": 88,
+        "four_page_mini_site": 86
+      },
+      "strengths": [
+        "Design-taste improves GPT-Taste's operational discipline.",
+        "Dashboard has clearer filters, route health, and inspector structure than GPT-Taste alone.",
+        "Product page is bold but more controlled."
+      ],
+      "weaknesses": [
+        "Still carries oversized GPT-Taste typography on mobile.",
+        "Less memorable than combinations that include frontend-design.",
+        "Occasional workspace-root build warnings from generated Next config."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__design-taste-frontend/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__design-taste-frontend/product-mobile.png",
+        "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-itineraries-desktop.png"
+      ]
+    },
+    "gpt-taste__frontend-design": {
+      "score": 86,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 12,
+        "responsive_resilience_and_text_handling": 7,
+        "interaction_states_and_motion_appropriateness": 9,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 88,
+        "dashboard": 84,
+        "product": 89,
+        "four_page_mini_site": 84
+      },
+      "strengths": [
+        "Strong dark, expressive first impressions.",
+        "Product page feels bold and memorable.",
+        "Good visual personality."
+      ],
+      "weaknesses": [
+        "Dashboard utility is weaker and a bit crowded.",
+        "Mobile type can dominate the actual workflow.",
+        "Two highly expressive skills together can over-amplify the hero posture."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__frontend-design/landing-mobile.png",
+        "bench/results/screenshots/gpt-taste__frontend-design/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-design/product-desktop.png"
+      ]
+    },
+    "frontend-skill__design-taste-frontend": {
+      "score": 88,
+      "category_scores": {
+        "product_fit_and_task_completion": 19,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 12,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 85,
+        "dashboard": 91,
+        "product": 88,
+        "four_page_mini_site": 88
+      },
+      "strengths": [
+        "Strongest pair for dashboards and practical app surfaces.",
+        "Good route/page distinction across the Northstar mini site.",
+        "Readable mobile structures and clear controls."
+      ],
+      "weaknesses": [
+        "Less visually surprising than frontend-design combinations.",
+        "Landing page is competent but not top-tier memorable.",
+        "Occasional workspace-root build warnings from generated Next config."
+      ],
+      "evidence": [
+        "bench/results/screenshots/frontend-skill__design-taste-frontend/dashboard-desktop.png",
+        "bench/results/screenshots/frontend-skill__design-taste-frontend/dashboard-mobile.png",
+        "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-account-desktop.png"
+      ]
+    },
+    "frontend-skill__frontend-design": {
+      "score": 89,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 14,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 90,
+        "dashboard": 88,
+        "product": 90,
+        "four_page_mini_site": 88
+      },
+      "strengths": [
+        "Great pair for expressive but coherent pages.",
+        "Mechanical product page has strong object presence.",
+        "Suite pages have distinct page jobs without feeling unrelated."
+      ],
+      "weaknesses": [
+        "Dashboard is a little less dense than design-taste pairings.",
+        "Some surfaces become editorial rather than workflow-first.",
+        "Motion remains moderate."
+      ],
+      "evidence": [
+        "bench/results/screenshots/frontend-skill__frontend-design/landing-desktop.png",
+        "bench/results/screenshots/frontend-skill__frontend-design/product-desktop.png",
+        "bench/results/screenshots/frontend-skill__frontend-design/four-page-mobile.png"
+      ]
+    },
+    "design-taste-frontend__frontend-design": {
+      "score": 87,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 13,
+        "information_architecture_and_workflow_clarity": 14,
+        "responsive_resilience_and_text_handling": 8,
+        "interaction_states_and_motion_appropriateness": 8,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 88,
+        "dashboard": 84,
+        "product": 88,
+        "four_page_mini_site": 88
+      },
+      "strengths": [
+        "Good visual wrapper around practical UI structure.",
+        "Landing and suite pages are clean and memorable enough.",
+        "Product page has strong comparison/spec orientation."
+      ],
+      "weaknesses": [
+        "Dashboard becomes too sparse compared with stronger operational runs.",
+        "Some pages favor airy composition over workflow density.",
+        "Not as distinctive as frontend-design alone on product storytelling."
+      ],
+      "evidence": [
+        "bench/results/screenshots/design-taste-frontend__frontend-design/dashboard-desktop.png",
+        "bench/results/screenshots/design-taste-frontend__frontend-design/product-mobile.png",
+        "bench/results/screenshots/design-taste-frontend__frontend-design/suite-itineraries-desktop.png"
+      ]
+    },
+    "gpt-taste__frontend-skill__design-taste-frontend": {
+      "score": 88,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 12,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 8,
+        "interaction_states_and_motion_appropriateness": 8,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 88,
+        "dashboard": 89,
+        "product": 88,
+        "four_page_mini_site": 87
+      },
+      "strengths": [
+        "Solid product/workflow coverage across all prompts.",
+        "Design-taste keeps GPT-Taste and frontend-skill from becoming too decorative.",
+        "Dashboard and suite routes feel coherent."
+      ],
+      "weaknesses": [
+        "Less visually sharp than the frontend-design triples.",
+        "Beige operational system repeats across many routes.",
+        "The extra skill makes it safer, not clearly more memorable."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/four-page-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-account-mobile.png"
+      ]
+    },
+    "gpt-taste__frontend-skill__frontend-design": {
+      "score": 91,
+      "category_scores": {
+        "product_fit_and_task_completion": 19,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 92,
+        "dashboard": 91,
+        "product": 91,
+        "four_page_mini_site": 90
+      },
+      "strengths": [
+        "Best overall balance of boldness, restraint, and distinctive concept work.",
+        "Dashboard is useful without feeling generic.",
+        "Landing and product pages have strong first-viewport impact with better control than GPT-Taste alone."
+      ],
+      "weaknesses": [
+        "Still has some large-type mobile pressure.",
+        "Motion is present but not the main reason it wins.",
+        "A few pages lean on similar neutral/photo materiality."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/landing-mobile.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/product-desktop.png"
+      ]
+    },
+    "gpt-taste__design-taste-frontend__frontend-design": {
+      "score": 86,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 17,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 12,
+        "responsive_resilience_and_text_handling": 7,
+        "interaction_states_and_motion_appropriateness": 9,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 87,
+        "dashboard": 85,
+        "product": 86,
+        "four_page_mini_site": 86
+      },
+      "strengths": [
+        "Interesting editorial character.",
+        "Strong visual mood on landing and suite pages.",
+        "Good object presence on product."
+      ],
+      "weaknesses": [
+        "Often more concept-heavy than task-clear.",
+        "Mobile type and dark editorial layouts can reduce scan speed.",
+        "Dashboard is less operationally crisp than design-taste pairings."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/landing-desktop.png",
+        "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/dashboard-mobile.png",
+        "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-notes-mobile.png"
+      ]
+    },
+    "frontend-skill__design-taste-frontend__frontend-design": {
+      "score": 90,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 14,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 89,
+        "dashboard": 91,
+        "product": 90,
+        "four_page_mini_site": 90
+      },
+      "strengths": [
+        "Best no-GPT-Taste combination.",
+        "Strong practical dashboard plus distinct product/suite pages.",
+        "Keeps visual character without over-scaling or over-dramatizing."
+      ],
+      "weaknesses": [
+        "Landing page is strong but not as instantly loud as GPT-Taste combinations.",
+        "Some pages use familiar beige/green product-app materiality.",
+        "Motion is restrained."
+      ],
+      "evidence": [
+        "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/dashboard-desktop.png",
+        "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/product-desktop.png",
+        "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-account-desktop.png"
+      ]
+    },
+    "gpt-taste__frontend-skill__design-taste-frontend__frontend-design": {
+      "score": 89,
+      "category_scores": {
+        "product_fit_and_task_completion": 18,
+        "visual_hierarchy_and_composition": 18,
+        "distinctiveness_without_gimmickry": 13,
+        "information_architecture_and_workflow_clarity": 15,
+        "responsive_resilience_and_text_handling": 9,
+        "interaction_states_and_motion_appropriateness": 7,
+        "technical_execution_and_maintainability": 9
+      },
+      "task_scores": {
+        "landing": 90,
+        "dashboard": 90,
+        "product": 89,
+        "four_page_mini_site": 88
+      },
+      "strengths": [
+        "Strong broad coverage across all prompts.",
+        "Dashboard and product pages are useful and visually polished.",
+        "Shows the value of combining all skills when you need a reliable generalist."
+      ],
+      "weaknesses": [
+        "All four together did not beat the best triples.",
+        "Competing guidance produces a more blended, less decisive art direction.",
+        "Some mobile pages still carry heavy hero typography."
+      ],
+      "evidence": [
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/landing-mobile.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/dashboard-desktop.png",
+        "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-account-mobile.png"
+      ]
+    }
+  },
+  "builds": {
+    "status": "all_passed",
+    "source": "bench/results/build-results.json"
+  },
+  "screenshots": {
+    "status": "all_captured",
+    "count": 210,
+    "source": "bench/results/screenshot-results.json"
+  },
+  "page_rankings": {
+    "landing": {
+      "label": "Landing page",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 92,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-design",
+          "score": 90,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-skill__frontend-design",
+          "score": 90,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 90,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 5,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 89,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 88,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 88,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 8,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 88,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 88,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 10,
+          "profile": "gpt-taste__frontend-design",
+          "score": 88,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 87,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 12,
+          "profile": "frontend-skill",
+          "score": 87,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 13,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 85,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 14,
+          "profile": "gpt-taste",
+          "score": 85,
+          "label": "GPT-Taste"
+        },
+        {
+          "rank": 15,
+          "profile": "design-taste-frontend",
+          "score": 82,
+          "label": "Design Taste Frontend"
+        }
+      ]
+    },
+    "dashboard": {
+      "label": "Operations dashboard",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 91,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 91,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 91,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 4,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 90,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 5,
+          "profile": "design-taste-frontend",
+          "score": 90,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 89,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 7,
+          "profile": "frontend-design",
+          "score": 88,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 8,
+          "profile": "frontend-skill__frontend-design",
+          "score": 88,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 88,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 10,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 88,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 85,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 12,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 84,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__frontend-design",
+          "score": 84,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "frontend-skill",
+          "score": 84,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 83,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "product": {
+      "label": "Product detail page",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 91,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 90,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 90,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 90,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 89,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-design",
+          "score": 89,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 88,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 8,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 88,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 88,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 88,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 88,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "frontend-skill",
+          "score": 88,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 86,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "design-taste-frontend",
+          "score": 85,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 80,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "four_page_mini_site": {
+      "label": "Four-page mini site",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 90,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 90,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 88,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 88,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 88,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 6,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 88,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 7,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 88,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 87,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 87,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend",
+          "score": 87,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 86,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 86,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 13,
+          "profile": "frontend-skill",
+          "score": 85,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 14,
+          "profile": "gpt-taste__frontend-design",
+          "score": 84,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 82,
+          "label": "GPT-Taste"
+        }
+      ]
+    }
+  },
+  "rubric_category_rankings": {
+    "product_fit_and_task_completion": {
+      "label": "Product fit and task completion",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 19,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 19,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-design",
+          "score": 18,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "frontend-skill__frontend-design",
+          "score": 18,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 18,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 18,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 9,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 10,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 18,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__frontend-design",
+          "score": 18,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 12,
+          "profile": "design-taste-frontend",
+          "score": 18,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "frontend-skill",
+          "score": 18,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 17,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "visual_hierarchy_and_composition": {
+      "label": "Visual hierarchy and composition",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 18,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 18,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 18,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 18,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 18,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 18,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 8,
+          "profile": "frontend-skill",
+          "score": 18,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 9,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 17,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 17,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 17,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "gpt-taste__frontend-design",
+          "score": 17,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 13,
+          "profile": "design-taste-frontend",
+          "score": 17,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 14,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 17,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 16,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "distinctiveness_without_gimmickry": {
+      "label": "Distinctiveness without gimmickry",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 14,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 14,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 14,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 14,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-design",
+          "score": 14,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 14,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste",
+          "score": 14,
+          "label": "GPT-Taste"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 13,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 13,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 13,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 13,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 12,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 12,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 14,
+          "profile": "frontend-skill",
+          "score": 12,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 15,
+          "profile": "design-taste-frontend",
+          "score": 11,
+          "label": "Design Taste Frontend"
+        }
+      ]
+    },
+    "information_architecture_and_workflow_clarity": {
+      "label": "Information architecture and workflow clarity",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 15,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 15,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 15,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 15,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 15,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 6,
+          "profile": "design-taste-frontend",
+          "score": 15,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 7,
+          "profile": "frontend-design",
+          "score": 14,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 8,
+          "profile": "frontend-skill__frontend-design",
+          "score": 14,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 14,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 14,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 14,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "frontend-skill",
+          "score": 13,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__frontend-design",
+          "score": 12,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 12,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 12,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "responsive_resilience_and_text_handling": {
+      "label": "Responsive resilience and text handling",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 9,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 6,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 7,
+          "profile": "design-taste-frontend",
+          "score": 9,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 8,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 9,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 8,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 10,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 8,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 8,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 12,
+          "profile": "frontend-skill",
+          "score": 8,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__frontend-design",
+          "score": 7,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 7,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 7,
+          "label": "GPT-Taste"
+        }
+      ]
+    },
+    "interaction_states_and_motion_appropriateness": {
+      "label": "Interaction states and motion appropriateness",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "gpt-taste",
+          "score": 9,
+          "label": "GPT-Taste"
+        },
+        {
+          "rank": 4,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 8,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 8,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 6,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 8,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 7,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 8,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 7,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 9,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 7,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 10,
+          "profile": "frontend-design",
+          "score": 7,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 11,
+          "profile": "frontend-skill__frontend-design",
+          "score": 7,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 12,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 7,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 13,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 7,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 14,
+          "profile": "design-taste-frontend",
+          "score": 7,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 15,
+          "profile": "frontend-skill",
+          "score": 7,
+          "label": "OpenAI Frontend Skill"
+        }
+      ]
+    },
+    "technical_execution_and_maintainability": {
+      "label": "Technical execution and maintainability",
+      "ranking": [
+        {
+          "rank": 1,
+          "profile": "gpt-taste__frontend-skill__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 2,
+          "profile": "frontend-skill__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 3,
+          "profile": "frontend-design",
+          "score": 9,
+          "label": "Anthropic Frontend Design"
+        },
+        {
+          "rank": 4,
+          "profile": "frontend-skill__frontend-design",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Anthropic Frontend Design"
+        },
+        {
+          "rank": 5,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "All Four Skills"
+        },
+        {
+          "rank": 6,
+          "profile": "gpt-taste__frontend-skill",
+          "score": 9,
+          "label": "GPT-Taste + OpenAI Frontend Skill"
+        },
+        {
+          "rank": 7,
+          "profile": "frontend-skill__design-taste-frontend",
+          "score": 9,
+          "label": "OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 8,
+          "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+          "score": 9,
+          "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend"
+        },
+        {
+          "rank": 9,
+          "profile": "design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 10,
+          "profile": "gpt-taste__design-taste-frontend",
+          "score": 9,
+          "label": "GPT-Taste + Design Taste Frontend"
+        },
+        {
+          "rank": 11,
+          "profile": "gpt-taste__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + Anthropic Frontend Design"
+        },
+        {
+          "rank": 12,
+          "profile": "design-taste-frontend",
+          "score": 9,
+          "label": "Design Taste Frontend"
+        },
+        {
+          "rank": 13,
+          "profile": "gpt-taste__design-taste-frontend__frontend-design",
+          "score": 9,
+          "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design"
+        },
+        {
+          "rank": 14,
+          "profile": "frontend-skill",
+          "score": 9,
+          "label": "OpenAI Frontend Skill"
+        },
+        {
+          "rank": 15,
+          "profile": "gpt-taste",
+          "score": 9,
+          "label": "GPT-Taste"
+        }
+      ]
+    }
+  }
+}

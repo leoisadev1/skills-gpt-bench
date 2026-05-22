@@ -1,0 +1,6 @@
+node_modules/
+.next/
+bench/projects/*/.next/
+bench/projects/*/node_modules/
+bench/projects/*/pnpm-lock.yaml
+bench/results/worker-logs/

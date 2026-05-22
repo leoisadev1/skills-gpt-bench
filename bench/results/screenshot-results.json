@@ -1,0 +1,1355 @@
+{
+  "generated_at": "2026-05-22T00:24:40.506Z",
+  "results": [
+    {
+      "profile": "gpt-taste",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "frontend-skill",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "design-taste-frontend",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__frontend-skill",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__design-taste-frontend",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "frontend-skill__design-taste-frontend",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "frontend-skill__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "design-taste-frontend__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/design-taste-frontend__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__frontend-skill__design-taste-frontend",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__frontend-skill__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__design-taste-frontend__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__design-taste-frontend__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "frontend-skill__design-taste-frontend__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/frontend-skill__design-taste-frontend__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "profile": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+      "status": "captured",
+      "screenshots": [
+        {
+          "route": "/landing",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/landing-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/landing",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/landing-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/dashboard-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/dashboard",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/dashboard-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/product-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/product",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/product-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/four-page-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/four-page-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-itineraries-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/itineraries",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-itineraries-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-notes-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/notes",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-notes-mobile.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "desktop",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-account-desktop.png",
+          "status": 200
+        },
+        {
+          "route": "/suite/account",
+          "viewport": "mobile",
+          "path": "bench/results/screenshots/gpt-taste__frontend-skill__design-taste-frontend__frontend-design/suite-account-mobile.png",
+          "status": 200
+        }
+      ]
+    }
+  ]
+}

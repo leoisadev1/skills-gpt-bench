@@ -1,0 +1,24 @@
+{
+  "assertions": [
+    {
+      "id": "routes-exist",
+      "description": "All required routes render without a 404 or hard runtime error."
+    },
+    {
+      "id": "prompt-coverage",
+      "description": "Each surface includes the required domain-specific content from the shared prompt."
+    },
+    {
+      "id": "responsive-screenshots",
+      "description": "Desktop and mobile screenshots are captured for landing, dashboard, product, and suite home routes."
+    },
+    {
+      "id": "no-image-generation",
+      "description": "No AI image generation tools or image-generation API calls are used."
+    },
+    {
+      "id": "build-result-recorded",
+      "description": "A build result or explicit build failure is recorded for the profile."
+    }
+  ]
+}

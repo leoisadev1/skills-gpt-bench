@@ -1,0 +1,21 @@
+{
+  "name": "gpt-taste__frontend-skill__design-taste-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "latest",
+    "@radix-ui/react-icons": "latest",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

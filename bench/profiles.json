@@ -1,0 +1,133 @@
+{
+  "profiles": [
+    {
+      "id": "gpt-taste",
+      "label": "GPT-Taste",
+      "skill_paths": ["bench/skills/gpt-taste/SKILL.md"],
+      "source": "https://www.skills.sh/leonxlnx/taste-skill/gpt-taste"
+    },
+    {
+      "id": "frontend-skill",
+      "label": "OpenAI Frontend Skill",
+      "skill_paths": ["bench/skills/frontend-skill/SKILL.md"],
+      "source": "https://www.skills.sh/openai/skills/frontend-skill"
+    },
+    {
+      "id": "design-taste-frontend",
+      "label": "Design Taste Frontend",
+      "skill_paths": ["bench/skills/design-taste-frontend/SKILL.md"],
+      "source": "https://www.skills.sh/leonxlnx/taste-skill/design-taste-frontend"
+    },
+    {
+      "id": "frontend-design",
+      "label": "Anthropic Frontend Design",
+      "skill_paths": ["bench/skills/frontend-design/SKILL.md"],
+      "source": "https://www.skills.sh/anthropics/skills/frontend-design"
+    },
+    {
+      "id": "gpt-taste__frontend-skill",
+      "label": "GPT-Taste + OpenAI Frontend Skill",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/frontend-skill/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "gpt-taste__design-taste-frontend",
+      "label": "GPT-Taste + Design Taste Frontend",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "gpt-taste__frontend-design",
+      "label": "GPT-Taste + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "frontend-skill__design-taste-frontend",
+      "label": "OpenAI Frontend Skill + Design Taste Frontend",
+      "skill_paths": [
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "frontend-skill__frontend-design",
+      "label": "OpenAI Frontend Skill + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "design-taste-frontend__frontend-design",
+      "label": "Design Taste Frontend + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/design-taste-frontend/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Pair combination profile."
+    },
+    {
+      "id": "gpt-taste__frontend-skill__design-taste-frontend",
+      "label": "GPT-Taste + OpenAI Frontend Skill + Design Taste Frontend",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md"
+      ],
+      "source": "Triple combination profile."
+    },
+    {
+      "id": "gpt-taste__frontend-skill__frontend-design",
+      "label": "GPT-Taste + OpenAI Frontend Skill + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Triple combination profile."
+    },
+    {
+      "id": "gpt-taste__design-taste-frontend__frontend-design",
+      "label": "GPT-Taste + Design Taste Frontend + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Triple combination profile."
+    },
+    {
+      "id": "frontend-skill__design-taste-frontend__frontend-design",
+      "label": "OpenAI Frontend Skill + Design Taste Frontend + Anthropic Frontend Design",
+      "skill_paths": [
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "Triple combination profile."
+    },
+    {
+      "id": "gpt-taste__frontend-skill__design-taste-frontend__frontend-design",
+      "label": "All Four Skills",
+      "skill_paths": [
+        "bench/skills/gpt-taste/SKILL.md",
+        "bench/skills/frontend-skill/SKILL.md",
+        "bench/skills/design-taste-frontend/SKILL.md",
+        "bench/skills/frontend-design/SKILL.md"
+      ],
+      "source": "All-skill combination profile."
+    }
+  ]
+}

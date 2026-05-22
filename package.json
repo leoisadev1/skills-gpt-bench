@@ -1,0 +1,26 @@
+{
+  "name": "skills-gpt-bench",
+  "private": true,
+  "workspaces": [
+    "bench/projects/*"
+  ],
+  "scripts": {
+    "build:all": "bun run bench/scripts/build-all.mjs",
+    "capture": "bun run bench/scripts/capture-screenshots.mjs",
+    "screenshot:index": "bun run bench/scripts/generate-screenshot-index.mjs"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "latest",
+    "@radix-ui/react-icons": "latest",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "typescript": "latest"
+  }
+}

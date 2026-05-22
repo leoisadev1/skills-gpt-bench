@@ -1,0 +1,36 @@
+{
+  "benchmark_name": "frontend-skill-design-benchmark",
+  "rules": [
+    "Use the same task prompt text for every skill profile.",
+    "Do not use image generation tools or AI image APIs.",
+    "Build real working Next.js code.",
+    "Use only the assigned skill snapshot(s) for design guidance.",
+    "Do not install the Anthropic frontend-design skill globally; use the local snapshot only."
+  ],
+  "tasks": [
+    {
+      "id": "landing",
+      "title": "Landing Page",
+      "route": "/landing",
+      "prompt": "Build a premium landing page for Lumen Ledger, a compliance-focused finance automation product for operators. It needs a first-viewport brand signal, one strong visual idea, clear CTA, proof, product depth, and a final conversion section. Avoid generic SaaS card soup and purple gradient defaults."
+    },
+    {
+      "id": "dashboard",
+      "title": "Operations Dashboard",
+      "route": "/dashboard",
+      "prompt": "Build an operational dashboard for Harbor Desk, a same-day logistics control room. Show route health, exception queues, driver status, depot capacity, filters, and a useful detail/inspector region. Start with the working surface, not a hero. Dense, calm, scannable, and mobile-safe."
+    },
+    {
+      "id": "product",
+      "title": "Product Detail Page",
+      "route": "/product",
+      "prompt": "Build a product detail page for the Meridian Type 42 field camera. It should help a buyer compare variants, inspect materials, see specs, understand included accessories, and choose a configuration. Make the object feel tangible with strong layout, not fake testimonial filler."
+    },
+    {
+      "id": "four-page",
+      "title": "Four-Page Mini Site",
+      "route": "/suite",
+      "prompt": "Build a cohesive four-page mini site for Northstar Atlas, a travel planning service for research teams. Include home, itineraries, field notes, and account pages with navigation between them. Each page should feel related but not duplicated, with real page-specific structure and responsive behavior."
+    }
+  ]
+}

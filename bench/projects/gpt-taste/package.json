@@ -1,0 +1,17 @@
+{
+  "name": "gpt-taste-benchmark",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "latest",
+    "@radix-ui/react-icons": "latest",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
