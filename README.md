@@ -13,6 +13,7 @@ The interesting part is that the all-four setup did not win. More guidance helpe
 ## Start Here
 
 - [Full results write-up](RESULTS.md)
+- [Source notes for writing about the benchmark](BENCHMARK_SOURCE_NOTES.md)
 - [Screenshot gallery](bench/results/screenshots/README.md)
 - [Contact-sheet comparisons](bench/results/contact-sheets)
 - [Generated apps](bench/projects)
